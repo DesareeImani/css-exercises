@@ -1,0 +1,18 @@
+/* style.css */
+
+.student {
+    background-color: #eaa7b2;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+.leader {
+    font-size: 24px;
+}
+#one {
+    color: #0000ff;
+    font-size: 36px;
+}
+#two {
+    background-color: #7de77d;
+    font-size: 24px;
+    font-weight: bold;
+}
